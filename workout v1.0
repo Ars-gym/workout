@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Full Body Workout Plan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f8f8f8;
+        }
+        .exercise {
+            background-color: #ffffff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #ccc;
+        }
+        .exercise h2 {
+            margin-top: 0;
+        }
+        video {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+        }
+        p {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Workout Plan</h1>
+
+    <div class="exercise">
+        <h2>Chest Workout</h2>
+        <p>[Video placeholder]</p>
+        <p>3×15 sets | 30–45 sec rest | Medium weight</p>
+    </div>
+
+    <div class="exercise">
+        <h2>Shoulder Press with Dumbbells</h2>
+        <p>[Video placeholder]</p>
+        <p>3×12 sets | 30–45 sec rest | Low weight</p>
+    </div>
+
+    <!-- Repeat for the rest of the exercises -->
+</body>
+</html>
